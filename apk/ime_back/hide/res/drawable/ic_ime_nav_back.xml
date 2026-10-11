@@ -1,0 +1,4 @@
+<!-- invisible collapse arrow; the button itself stays (still tappable) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" />
+</shape>

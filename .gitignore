@@ -1,0 +1,5 @@
+# prebuilt/ is committed on purpose: end users have no build tools
+*.log
+.vscode/
+Thumbs.db
+desktop.ini

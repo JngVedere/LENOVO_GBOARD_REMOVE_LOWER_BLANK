@@ -1,0 +1,5 @@
+<resources>
+    <!-- Height of the IME button row (collapse / globe). Android 17+ only.
+         Stock: navigation_bar_frame_height (phones), taskbar_frame_height = 56dp (sw600dp). -->
+    <dimen name="input_method_navigation_bar_height">__DP__dp</dimen>
+</resources>

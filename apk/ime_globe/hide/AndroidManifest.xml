@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="gboardblank.ime_globe.hide">
+    <!-- targetSdk < 29 + platform signature: overlayable policy is not enforced -->
+    <uses-sdk android:minSdkVersion="28" android:targetSdkVersion="28" />
+    <overlay android:targetPackage="android" />
+    <application android:hasCode="false" />
+</manifest>
